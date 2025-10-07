@@ -1,0 +1,16 @@
+numpy
+pandas
+scikit-learn
+torch
+tqdm
+transformers[torch]
+matplotlib
+seaborn
+pymystem3
+nltk
+wordcloud
+transformers-interpret
+datasets
+evaluate
+
+ipywidgets
