@@ -209,3 +209,9 @@ __marimo__/
 # custom
 datasets/
 docs/
+final/catboost_info/catboost_training.json
+final/catboost_info/learn_error.tsv
+.gitignore
+.gitignore
+final/catboost_info/time_left.tsv
+final/catboost_info/learn/events.out.tfevents
