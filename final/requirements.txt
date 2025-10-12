@@ -3,3 +3,6 @@ pandas
 scipy
 seaborn
 scikit-learn
+optuna
+optuna-integration[sklearn]
+ipywidgets
