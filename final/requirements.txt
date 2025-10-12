@@ -2,3 +2,5 @@ numpy
 pandas
 scipy
 seaborn
+phik
+scikit-learn
